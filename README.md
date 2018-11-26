@@ -8,3 +8,5 @@ Go to [releases](https://github.com/Heimo-He/dracula-theme-kakao/releases/latest
 
 ## Compatibility
 - iOS
+
+![](http://ww1.sinaimg.cn/large/005H70QEgy1fxlmbhg476j30tz1sx7b5.jpg)
